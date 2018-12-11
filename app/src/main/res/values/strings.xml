@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4_4Network</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">add</string>
+    <string name="code">code</string>
+    <string name="title">title</string>
+    <string name="credit">credit</string>
+</resources>
