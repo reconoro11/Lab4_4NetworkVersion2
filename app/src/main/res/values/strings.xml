@@ -5,4 +5,6 @@
     <string name="code">code</string>
     <string name="title">title</string>
     <string name="credit">credit</string>
+    <string name="save">save</string>
+    <string name="reset">reset</string>
 </resources>
